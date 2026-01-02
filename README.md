@@ -1,10 +1,10 @@
-### Hey there! 👋
+### Hey there!
 
 I'm a senior software engineer and tech lead who genuinely enjoys building things and understanding how they work, tinkering with code both on and off the clock. My goal is to create clean, maintainable software and help other engineers do the same.
 
-- ⚙️ Day-to-day, I'm leading a team, designing APIs, and wrangling backend services.
-- 📐 I'm always digging into software architecture, design patterns, and language-specific details to write better code.
-- 🚀 Lately, I've been writing as much `Go` as I can get away with and exploring newer tools like `Deno`.
+- Day-to-day, I'm leading a team, designing APIs, and wrangling backend services.
+- I'm always digging into software architecture, design patterns, and language-specific details to write better code.
+- Lately, I've been writing as much `Go` as I can get away with and exploring newer tools like `Deno`.
 
 ---
 
@@ -52,19 +52,19 @@ I've been a professional software engineer for over 7 years. My career has been 
 *   **The first half** was deep in `C++` and `Qt`, building and maintaining large-scale desktop applications.
 *   **The latter half** has been focused on the backend and cloud modernization efforts. I've been building microservices and modernizing applications using a mix of `Go`, `Python`, and `C#`; but mostly `Go`. This has also involved a healthy amount of API development and DevOps work with tools like `Docker`, `Kubernetes`, and `Helm`.
 
-### 🎮 Side Quests
+### Side Quests (Stupid way to say Side Projects)
 
 When I'm not on the clock, I'm usually working on one of these projects:
 
 *   **Voxel Game Engine:** Slowly but surely building a game engine from scratch with `C++` and `Vulkan`.
-*   **TUI Applications:** Creating simple and useful terminal user interfaces with `Go`.
+*   **TUI Applications:** Creating simple and useful terminal user interfaces with `Go` (private for now but plan to release Feb, or March of 2026).
 *   **Homelab:** Tinkering with my personal servers and network setup. It's the best way to learn about infrastructure. If you're curious, just ask me about my Homelab! I promise you, I will talk for hours about it.
 *   **Godot Games:** Prototyping small game ideas with the `Godot Engine`.
 *   **Learning:** Always picking up something new. Currently, that's `Rust` for systems programming and getting reacquainted with `Javascript` via `React`.
 
 ---
 
-### 📫 Get In Touch
+### Get In Touch
 
 <p align="left">
   <table>
